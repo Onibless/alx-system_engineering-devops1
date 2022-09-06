@@ -1,7 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-Hello, world
-=======
-echo 'Hello, Word'
-
->>>>>>> ec2fe90c2f75b47685ad6dbc92c3ce05603682b3
+echo Hello, World
